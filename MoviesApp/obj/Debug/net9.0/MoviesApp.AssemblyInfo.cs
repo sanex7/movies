@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoviesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bce2c2c9ed56ca772c71b2de5e7d0e728bb7187")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoviesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoviesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,7 +3,7 @@
 public class User
 {
     public int Id { get; set; }
-    public string Імя { get; set; }
-    public string Логін { get; set; }
-    public string Пароль { get; set; }
+    public string Username { get; set; }
+    public string Login { get; set; }
+    public string Password { get; set; }
 }

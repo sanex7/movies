@@ -3117,11 +3117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\MoviesApp\\MoviesApp\\MoviesApp.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\VSCODE\\MoviesApp\\MoviesApp\\MoviesApp.csproj",
       "projectName": "MoviesApp",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\MoviesApp\\MoviesApp\\MoviesApp.csproj",
+      "projectPath": "C:\\Users\\Admin\\VSCODE\\MoviesApp\\MoviesApp\\MoviesApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\MoviesApp\\MoviesApp\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\VSCODE\\MoviesApp\\MoviesApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

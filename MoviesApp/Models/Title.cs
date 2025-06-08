@@ -1,8 +1,11 @@
-﻿namespace MoviesApp.Models;
+﻿using MoviesApp.Models;
 
 public class Title
 {
     public int Id { get; set; }
-    public string Назва { get; set; }
-    public int Тривалість { get; set; }
+    public string Name { get; set; }
+    public int Duration { get; set; }
+
+    public int UserId { get; set; }
+    public User User { get; set; }
 }
