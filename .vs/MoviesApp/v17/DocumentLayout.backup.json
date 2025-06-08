@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\VSCODE\\MoviesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90DFC2AA-30D8-4D0E-8974-D9491AFB514B}|MoviesApp\\MoviesApp.csproj|c:\\users\\admin\\vscode\\moviesapp\\moviesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90DFC2AA-30D8-4D0E-8974-D9491AFB514B}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90DFC2AA-30D8-4D0E-8974-D9491AFB514B}|MoviesApp\\MoviesApp.csproj|c:\\users\\admin\\vscode\\moviesapp\\moviesapp\\data\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90DFC2AA-30D8-4D0E-8974-D9491AFB514B}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\data\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{90DFC2AA-30D8-4D0E-8974-D9491AFB514B}|MoviesApp\\MoviesApp.csproj|c:\\users\\admin\\vscode\\moviesapp\\moviesapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90DFC2AA-30D8-4D0E-8974-D9491AFB514B}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DFC2AA-30D8-4D0E-8974-D9491AFB514B}|MoviesApp\\MoviesApp.csproj|c:\\users\\admin\\vscode\\moviesapp\\moviesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DFC2AA-30D8-4D0E-8974-D9491AFB514B}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90DFC2AA-30D8-4D0E-8974-D9491AFB514B}|MoviesApp\\MoviesApp.csproj|c:\\users\\admin\\vscode\\moviesapp\\moviesapp\\migrations\\20250607120328_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Title.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\VSCODE\\MoviesApp\\MoviesApp\\Models\\Title.cs",
               "RelativeDocumentMoniker": "MoviesApp\\Models\\Title.cs",
               "ToolTip": "C:\\Users\\Admin\\VSCODE\\MoviesApp\\MoviesApp\\Models\\Title.cs",
               "RelativeToolTip": "MoviesApp\\Models\\Title.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T12:28:05.221Z",
               "EditorCaption": ""
@@ -71,38 +71,37 @@
               "RelativeToolTip": "MoviesApp\\Migrations\\20250607120328_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T12:03:28.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T12:03:28.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MoviesContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\VSCODE\\MoviesApp\\MoviesApp\\Data\\MoviesContext.cs",
               "RelativeDocumentMoniker": "MoviesApp\\Data\\MoviesContext.cs",
               "ToolTip": "C:\\Users\\Admin\\VSCODE\\MoviesApp\\MoviesApp\\Data\\MoviesContext.cs",
               "RelativeToolTip": "MoviesApp\\Data\\MoviesContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T12:02:41.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\VSCODE\\MoviesApp\\MoviesApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "MoviesApp\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Admin\\VSCODE\\MoviesApp\\MoviesApp\\Models\\User.cs",
               "RelativeToolTip": "MoviesApp\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T12:02:04.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\VSCODE\\MoviesApp\\MoviesApp\\Program.cs",
               "RelativeDocumentMoniker": "MoviesApp\\Program.cs",
